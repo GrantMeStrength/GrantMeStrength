@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @GrantMeStrength
+- 👋 Hi, I’m @GrantMeStrength aka John Kennedy.
 - 👀 I’m interested in programming languages, documentation, old computers, hardware projects.
 - 🌱 I’m currently learning Rust.
-- 📫 How to reach me on Twitter at @JohnKennedyEsq
+- 📫 You can find me on Twitter at @JohnKennedyEsq
 
 <!---
 GrantMeStrength/GrantMeStrength is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
