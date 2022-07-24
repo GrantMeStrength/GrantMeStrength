@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GrantMeStrength aka John Kennedy.
-- 👀 I’m interested in programming languages, documentation, old computers, hardware projects.
+- 👀 I’m interested in programming languages, documentation, iOS apps, old computers, and hardware projects.
 - 🌱 I’m currently learning Rust.
 - 📫 You can find me on Twitter at @JohnKennedyEsq
 
