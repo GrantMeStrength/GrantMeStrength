@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @GrantMeStrength aka John Kennedy.
 - 👀 I’m interested in programming languages, documentation, iOS apps, old computers, and hardware projects.
 - 🌱 I’m currently learning Rust.
-- 📫 You can find me on Twitter at @JohnKennedyEsq
+- 📫 You can find me on Twitter at @JohnKennedyEsq, and [LinkedIn](https://www.linkedin.com/in/johntkennedy/).
 
-<!---
-GrantMeStrength/GrantMeStrength is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My current favorite projects that I am working on are on the iOS App Store: [Virtual KIM-1 6502 Retrocomputer](https://apps.apple.com/us/app/virtualkim-6502-emulator/id1548356829) and [Pocket Universe](https://apps.apple.com/us/app/pocket-universe-astronomy/id306916838).
