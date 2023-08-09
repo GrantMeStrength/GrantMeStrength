@@ -8,4 +8,6 @@
 My current favorite projects are on the iOS App Store: 
 
 
-[![](kim.PNG)](https://apps.apple.com/us/app/virtualkim-6502-emulator/id1548356829) [![](pu.PNG)](https://apps.apple.com/us/app/pocket-universe-astronomy/id306916838).
+[![](kim.PNG)](https://apps.apple.com/us/app/virtualkim-6502-emulator/id1548356829) 
+[![](pu.PNG)](https://apps.apple.com/us/app/pocket-universe-astronomy/id306916838)
+[![](cubical.png)](https://apps.apple.com/us/app/cubical-puzzle/id6450876855)
