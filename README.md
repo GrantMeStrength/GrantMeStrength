@@ -12,8 +12,8 @@ Outside of work, I build and maintain a catalog of iOS and visionOS apps under [
 
 ### Featured Apps
 
-<a href="https://apps.apple.com/us/app/id306916838"><img src="pu.PNG" width="180" alt="Pocket Universe"></a>
-<a href="https://apps.apple.com/us/app/id1548356829"><img src="kim.PNG" width="180" alt="Virtual Kim"></a>
+<a href="https://apps.apple.com/us/app/id306916838"><img src="puniverse.png" width="180" alt="Pocket Universe"></a>
+<a href="https://apps.apple.com/us/app/id1548356829"><img src="kim.png" width="180" alt="Virtual Kim"></a>
 <a href="https://testflight.apple.com/join/e3nSMedK"><img src="Opcodes.png" width="180" alt="Opcodes"></a>
 <a href="https://testflight.apple.com/join/nTcrH9mf"><img src="DecOpcodes.png" width="180" alt="DEC Opcodes"></a>
 
