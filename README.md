@@ -5,7 +5,7 @@ I'm in technical writing at Microsoft and an indie iOS developer. I'm passionate
 Outside of work, I build and maintain a catalog of iOS and visionOS apps under [**Craic Design**](https://www.craicdesign.com) — covering everything from astronomy guides to retro-computing emulators and puzzle games.
 
 
-📫 Find me on [![Mastodon link to @GrantMeStrength](https://img.shields.io/badge/-Mastodon-55acee?style=flat-square&logo=mastodon&logoColor=white)](https://hachyderm.io/@GrantMeStrength) and [![LinkedIn link to John Kennedy](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johntkennedy/)
+📫 Find me on [![LinkedIn link to John Kennedy](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johntkennedy/)
 
 ---
 
