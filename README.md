@@ -20,3 +20,8 @@ Outside of work, I build and maintain a catalog of iOS and visionOS apps under [
 
 ### Some Notable Repos
 
+* [Retro computing](https://github.com/GrantMeStrength/retro)
+* [Small-scale robots with AI](https://github.com/GrantMeStrength/robot)
+* [ThinkFeed learn-scrolling app](https://github.com/GrantMeStrength/ThinkFeed)
+* [ENIAC on VisionPro](https://github.com/GrantMeStrength/ENIAC)
+* [6502 MCP Server](https://github.com/GrantMeStrength/6502MCP)
